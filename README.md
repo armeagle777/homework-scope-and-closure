@@ -23,6 +23,21 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/partialSum.js)
 
 </details>
+<details>
+    <summary>redundant function</summary>
+    <br>
+    
+➡️ Task: Write a function redundant that takes in a string str and returns a function that returns str.
+
+➡️ Expected output
+
+- const f1 = redundant("apple"); // //f1() ➞ "apple"
+- const f2 = redundant("pear");//f2() ➞ "pear"
+- const f3 = redundant("");//f3() ➞ ""
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/redundant.js)
+
+</details>
 
 ## Built With
 
