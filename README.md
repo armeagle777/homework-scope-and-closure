@@ -5,7 +5,7 @@
 ## Tasks
 
 <details>
-    <summary  style="color:red">Partial sum</summary>
+    <summary>Partial sum</summary>
     <br>
     
 ➡️ Task: Create a function that implements partial sum
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-    <summary style="color:red">redundant function</summary>
+    <summary>redundant function</summary>
     <br>
     
 ➡️ Task: Write a function redundant that takes in a string str and returns a function that returns str.
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-    <summary style="color:red">Add suffix</summary>
+    <summary>Add suffix</summary>
     <br>
     
 ➡️ Task: Write a function that returns an anonymous function, which transforms its input by adding a particular suffix at the end.
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-    <summary style="color:red">printAfter function</summary>
+    <summary>printAfter function</summary>
     <br>
     
 ➡️ Task: Create a function printAfter that calls its argument after printing 'hello world'
@@ -74,7 +74,7 @@
 </details>
 
 <details>
-    <summary style="color:red">Function to emplement filtering an array</summary>
+    <summary>Function to emplement filtering an array</summary>
     <br>
     
 ➡️ Task: Write a function that implements filtering in array
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-    <summary style="color:red">Function to remove elements of array with length <= 3</summary>
+    <summary>Function to remove elements of array with length <= 3</summary>
     <br>
     
 ➡️ Task: Write a function which remove elements with length <= 3
@@ -100,6 +100,16 @@
 - filterByLength(["kia", "tesla", "bmw", "mercedes"]); // ['tesla', 'mercedes']
 
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/filterLength.js)
+
+</details>
+
+<details>
+    <summary>Are elements of the given array uniwue ?</summary>
+    <br>
+    
+➡️ Task: Given an array. Determine whether it consists only from uniques or not.
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/uniques.js)
 
 </details>
 
