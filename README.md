@@ -5,7 +5,7 @@
 ## Tasks
 
 <details>
-    <summary>Partial sum</summary>
+    <summary  style="color:red">Partial sum</summary>
     <br>
     
 ➡️ Task: Create a function that implements partial sum
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-    <summary>redundant function</summary>
+    <summary style="color:red">redundant function</summary>
     <br>
     
 ➡️ Task: Write a function redundant that takes in a string str and returns a function that returns str.
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-    <summary>Add suffix</summary>
+    <summary style="color:red">Add suffix</summary>
     <br>
     
 ➡️ Task: Write a function that returns an anonymous function, which transforms its input by adding a particular suffix at the end.
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-    <summary>printAfter function</summary>
+    <summary style="color:red">printAfter function</summary>
     <br>
     
 ➡️ Task: Create a function printAfter that calls its argument after printing 'hello world'
@@ -74,7 +74,7 @@
 </details>
 
 <details>
-    <summary>Function to emplement filtering an array</summary>
+    <summary style="color:red">Function to emplement filtering an array</summary>
     <br>
     
 ➡️ Task: Write a function that implements filtering in array
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-    <summary>Function to remove elements of array with length <= 3</summary>
+    <summary style="color:red">Function to remove elements of array with length <= 3</summary>
     <br>
     
 ➡️ Task: Write a function which remove elements with length <= 3
