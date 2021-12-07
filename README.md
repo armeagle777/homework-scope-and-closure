@@ -69,7 +69,21 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/prinAfter.js)
 
 </details>
+<details>
+    <summary>Function to emplement filtering an array</summary>
+    <br>
+    
+➡️ Task: Write a function that implements filtering in array
 
+➡️ Expected output
+
+- filterFalsyValues(values); // [true, {}, { name: "Elon" }];
+
+- filterFalsyValues(["hello", 1233, []]); // ['hello', 1233, []]
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/implimentArray.js)
+
+</details>
 ## Built With
 
 - Vanilla JavaScript
