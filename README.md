@@ -23,6 +23,7 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/partialSum.js)
 
 </details>
+
 <details>
     <summary>redundant function</summary>
     <br>
@@ -38,6 +39,7 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/redundant.js)
 
 </details>
+
 <details>
     <summary>Add suffix</summary>
     <br>
@@ -56,6 +58,7 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/anonymous.js)
 
 </details>
+
 <details>
     <summary>printAfter function</summary>
     <br>
@@ -69,6 +72,7 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/prinAfter.js)
 
 </details>
+
 <details>
     <summary>Function to emplement filtering an array</summary>
     <br>
@@ -84,6 +88,21 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/implimentArray.js)
 
 </details>
+
+<details>
+    <summary>Function to remove elements of array with length <= 3</summary>
+    <br>
+    
+➡️ Task: Write a function which remove elements with length <= 3
+
+➡️ Expected output
+
+- filterByLength(["kia", "tesla", "bmw", "mercedes"]); // ['tesla', 'mercedes']
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/filterLength.js)
+
+</details>
+
 ## Built With
 
 - Vanilla JavaScript
