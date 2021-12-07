@@ -143,6 +143,17 @@
 
 </details>
 
+<details>
+    <summary>Largest product of adjacent elements.</summary>
+    <br>
+    
+➡️ Task: Given an array of integers, find the pair of adjacent elements that has the largest product and return
+that product.
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/largestProduct.js)
+
+</details>
+
 ## Built With
 
 - Vanilla JavaScript
