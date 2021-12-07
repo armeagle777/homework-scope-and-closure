@@ -123,6 +123,16 @@
 
 </details>
 
+<details>
+    <summary>Sum of even numers' quadratic.</summary>
+    <br>
+    
+➡️ Task: Given an array of numbers. Find the sum of numbersʼ quadratic which are even.
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/evensQuadratic.js)
+
+</details>
+
 ## Built With
 
 - Vanilla JavaScript
