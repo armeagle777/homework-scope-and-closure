@@ -56,6 +56,19 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/anonymous.js)
 
 </details>
+<details>
+    <summary>printAfter function</summary>
+    <br>
+    
+➡️ Task: Create a function printAfter that calls its argument after printing 'hello world'
+
+➡️ Expected output
+
+- printAfter(print); // 'hello, world' // 'Elon Musk'
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/prinAfter.js)
+
+</details>
 
 ## Built With
 
