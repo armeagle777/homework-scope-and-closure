@@ -113,6 +113,16 @@
 
 </details>
 
+<details>
+    <summary>Determine if a word or phrase is an isogram.</summary>
+    <br>
+    
+➡️ Task: Determine if a word or phrase is an isogram. An isogram (also known as a "non pattern word") is a word or phrase without a repeating letter.
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/isogram.js)
+
+</details>
+
 ## Built With
 
 - Vanilla JavaScript
