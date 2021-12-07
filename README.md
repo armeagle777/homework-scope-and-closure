@@ -38,6 +38,24 @@
 ➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/redundant.js)
 
 </details>
+<details>
+    <summary>Add suffix</summary>
+    <br>
+    
+➡️ Task: Write a function that returns an anonymous function, which transforms its input by adding a particular suffix at the end.
+
+➡️ Expected output
+
+- add_ly = add_suffix("ly");
+- add_ly("hopeless"); // "hopelessly"
+- add_ly("total"); // "totally"
+- add_less = add_suffix("less");
+- add_less("fear"); // "fearless"
+- add_less("ruth"); // "ruthless"
+
+➡️ [Solution](https://github.com/armeagle777/scope-and-closure/blob/master/homeTasks/anonymous.js)
+
+</details>
 
 ## Built With
 
